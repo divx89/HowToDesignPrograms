@@ -1,0 +1,2 @@
+Description of the process of using multiple functions to create programs.
+The concept of a wish list of functions, that are utilized when designing programs.
